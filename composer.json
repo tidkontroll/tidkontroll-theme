@@ -1,0 +1,16 @@
+{
+    "name": "tidkontroll/theme",
+    "authors": [
+        {
+            "name": "Kristoffer Eklund",
+            "email": "kristoffereklund1@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tidkontroll\\Theme\\": ""
+        }
+    },
+    "minimum-stability": "dev"
+}
